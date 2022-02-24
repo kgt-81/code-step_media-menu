@@ -29,7 +29,7 @@ header img {
 }
 
 header .nav-bg {
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.8);
   display: none;
   height: 100vh;
   left: 0;
